@@ -11,7 +11,7 @@ Fullstack (Frontend + Firebase)
 ---
 
 ## 🚀 Deployed Links
-- Frontend: [https://your-frontend-url.vercel.app]  
+- Frontend: https://sanjayasokan.github.io/Language_Learning_Platform/  
 - Backend: ❌ N/A (uses Firebase only)  
 - Database: Firebase Firestore & Authentication
 
