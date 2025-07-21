@@ -1,0 +1,327 @@
+[
+  {
+    "level": "Level 1",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the Spanish word for 'Hello'?",
+        "options": ["Hola", "Adiós", "Gracias", "Por favor"],
+        "answer": "Hola"
+      },
+      {
+        "id": 2,
+        "question": "What is the Spanish word for 'Goodbye'?",
+        "options": ["Gracias", "Hola", "Adiós", "Lo siento"],
+        "answer": "Adiós"
+      },
+      {
+        "id": 3,
+        "question": "How do you say 'Thank you' in Spanish?",
+        "options": ["Por favor", "Gracias", "Hola", "Sí"],
+        "answer": "Gracias"
+      },
+      {
+        "id": 4,
+        "question": "Translate 'Please' into Spanish.",
+        "options": ["Perdón", "De nada", "Gracias", "Por favor"],
+        "answer": "Por favor"
+      },
+      {
+        "id": 5,
+        "question": "What is 'Yes' in Spanish?",
+        "options": ["No", "Tal vez", "Sí", "Por qué"],
+        "answer": "Sí"
+      },
+      {
+        "id": 6,
+        "question": "What does 'No' mean in Spanish?",
+        "options": ["Sí", "No", "Gracias", "Adiós"],
+        "answer": "No"
+      },
+      {
+        "id": 7,
+        "question": "What is the Spanish word for 'Excuse me'?",
+        "options": ["Perdón", "De nada", "Gracias", "Hola"],
+        "answer": "Perdón"
+      },
+      {
+        "id": 8,
+        "question": "Translate 'You're welcome' to Spanish.",
+        "options": ["Gracias", "De nada", "Por favor", "Hola"],
+        "answer": "De nada"
+      },
+      {
+        "id": 9,
+        "question": "How do you say 'I'm sorry' in Spanish?",
+        "options": ["Perdón", "Gracias", "Lo siento", "Hola"],
+        "answer": "Lo siento"
+      },
+      {
+        "id": 10,
+        "question": "What is 'Good morning' in Spanish?",
+        "options": ["Buenas noches", "Buenas tardes", "Buenos días", "Hola"],
+        "answer": "Buenos días"
+      }
+    ]
+  },
+  {
+    "level": "Level 2",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Translate 'Good night' into Spanish.",
+        "options": ["Buenos días", "Buenas noches", "Buenas tardes", "Hola"],
+        "answer": "Buenas noches"
+      },
+      {
+        "id": 12,
+        "question": "How do you say 'Good afternoon' in Spanish?",
+        "options": ["Buenas tardes", "Buenos días", "Buenas noches", "Hola"],
+        "answer": "Buenas tardes"
+      },
+      {
+        "id": 13,
+        "question": "What is the Spanish word for 'Man'?",
+        "options": ["Mujer", "Hombre", "Niño", "Chico"],
+        "answer": "Hombre"
+      },
+      {
+        "id": 14,
+        "question": "What is the Spanish word for 'Woman'?",
+        "options": ["Mujer", "Niña", "Hombre", "Abuela"],
+        "answer": "Mujer"
+      },
+      {
+        "id": 15,
+        "question": "Translate 'Boy' into Spanish.",
+        "options": ["Niña", "Chico", "Hombre", "Amigo"],
+        "answer": "Chico"
+      },
+      {
+        "id": 16,
+        "question": "Translate 'Girl' into Spanish.",
+        "options": ["Chica", "Niño", "Hombre", "Amiga"],
+        "answer": "Chica"
+      },
+      {
+        "id": 17,
+        "question": "How do you say 'Friend' (male) in Spanish?",
+        "options": ["Amiga", "Amigo", "Chico", "Mujer"],
+        "answer": "Amigo"
+      },
+      {
+        "id": 18,
+        "question": "How do you say 'Friend' (female) in Spanish?",
+        "options": ["Amigo", "Chica", "Amiga", "Mujer"],
+        "answer": "Amiga"
+      },
+      {
+        "id": 19,
+        "question": "Translate 'Family' into Spanish.",
+        "options": ["Familia", "Escuela", "Casa", "Niños"],
+        "answer": "Familia"
+      },
+      {
+        "id": 20,
+        "question": "What is the Spanish word for 'House'?",
+        "options": ["Escuela", "Familia", "Casa", "Niño"],
+        "answer": "Casa"
+      }
+    ]
+  },
+  {
+    "level": "Level 3",
+    "questions": [
+      {
+        "id": 21,
+        "question": "What is 'School' in Spanish?",
+        "options": ["Casa", "Niño", "Escuela", "Padre"],
+        "answer": "Escuela"
+      },
+      {
+        "id": 22,
+        "question": "Translate 'Water' into Spanish.",
+        "options": ["Leche", "Agua", "Jugo", "Café"],
+        "answer": "Agua"
+      },
+      {
+        "id": 23,
+        "question": "What is the Spanish word for 'Milk'?",
+        "options": ["Agua", "Leche", "Jugo", "Cerveza"],
+        "answer": "Leche"
+      },
+      {
+        "id": 24,
+        "question": "Translate 'Bread' into Spanish.",
+        "options": ["Pan", "Arroz", "Carne", "Fruta"],
+        "answer": "Pan"
+      },
+      {
+        "id": 25,
+        "question": "How do you say 'Fruit' in Spanish?",
+        "options": ["Verdura", "Fruta", "Carne", "Pescado"],
+        "answer": "Fruta"
+      },
+      {
+        "id": 26,
+        "question": "What is 'Vegetable' in Spanish?",
+        "options": ["Fruta", "Pescado", "Verdura", "Agua"],
+        "answer": "Verdura"
+      },
+      {
+        "id": 27,
+        "question": "Translate 'Meat' into Spanish.",
+        "options": ["Pescado", "Carne", "Pan", "Jugo"],
+        "answer": "Carne"
+      },
+      {
+        "id": 28,
+        "question": "What is 'Fish' in Spanish?",
+        "options": ["Carne", "Pescado", "Pan", "Fruta"],
+        "answer": "Pescado"
+      },
+      {
+        "id": 29,
+        "question": "Translate 'Rice' into Spanish.",
+        "options": ["Arroz", "Pan", "Carne", "Leche"],
+        "answer": "Arroz"
+      },
+      {
+        "id": 30,
+        "question": "What is 'Juice' in Spanish?",
+        "options": ["Leche", "Café", "Jugo", "Agua"],
+        "answer": "Jugo"
+      }
+    ]
+  },
+  {
+    "level": "Level 4",
+    "questions": [
+      {
+        "id": 31,
+        "question": "Translate 'Coffee' into Spanish.",
+        "options": ["Té", "Café", "Jugo", "Leche"],
+        "answer": "Café"
+      },
+      {
+        "id": 32,
+        "question": "What is 'Tea' in Spanish?",
+        "options": ["Té", "Café", "Jugo", "Pan"],
+        "answer": "Té"
+      },
+      {
+        "id": 33,
+        "question": "Translate 'Father' into Spanish.",
+        "options": ["Madre", "Padre", "Hermano", "Amigo"],
+        "answer": "Padre"
+      },
+      {
+        "id": 34,
+        "question": "What is the Spanish word for 'Mother'?",
+        "options": ["Hermana", "Madre", "Abuela", "Mujer"],
+        "answer": "Madre"
+      },
+      {
+        "id": 35,
+        "question": "How do you say 'Brother' in Spanish?",
+        "options": ["Hermano", "Padre", "Amigo", "Tío"],
+        "answer": "Hermano"
+      },
+      {
+        "id": 36,
+        "question": "Translate 'Sister' into Spanish.",
+        "options": ["Hermana", "Mujer", "Amiga", "Prima"],
+        "answer": "Hermana"
+      },
+      {
+        "id": 37,
+        "question": "What is the Spanish word for 'Uncle'?",
+        "options": ["Tío", "Tía", "Padre", "Abuelo"],
+        "answer": "Tío"
+      },
+      {
+        "id": 38,
+        "question": "Translate 'Aunt' into Spanish.",
+        "options": ["Tía", "Tío", "Madre", "Prima"],
+        "answer": "Tía"
+      },
+      {
+        "id": 39,
+        "question": "How do you say 'Grandfather' in Spanish?",
+        "options": ["Abuelo", "Padre", "Tío", "Hermano"],
+        "answer": "Abuelo"
+      },
+      {
+        "id": 40,
+        "question": "What is the Spanish word for 'Grandmother'?",
+        "options": ["Abuela", "Hermana", "Tía", "Mujer"],
+        "answer": "Abuela"
+      }
+    ]
+  },
+  {
+    "level": "Level 5",
+    "questions": [
+      {
+        "id": 41,
+        "question": "Translate 'Morning' into Spanish.",
+        "options": ["Mañana", "Noche", "Tarde", "Día"],
+        "answer": "Mañana"
+      },
+      {
+        "id": 42,
+        "question": "What is 'Afternoon' in Spanish?",
+        "options": ["Noche", "Mañana", "Tarde", "Día"],
+        "answer": "Tarde"
+      },
+      {
+        "id": 43,
+        "question": "Translate 'Night' into Spanish.",
+        "options": ["Día", "Mañana", "Tarde", "Noche"],
+        "answer": "Noche"
+      },
+      {
+        "id": 44,
+        "question": "What is 'Day' in Spanish?",
+        "options": ["Noche", "Tarde", "Día", "Mañana"],
+        "answer": "Día"
+      },
+      {
+        "id": 45,
+        "question": "Translate 'Today' into Spanish.",
+        "options": ["Mañana", "Hoy", "Ayer", "Día"],
+        "answer": "Hoy"
+      },
+      {
+        "id": 46,
+        "question": "What is 'Tomorrow' in Spanish?",
+        "options": ["Hoy", "Mañana", "Ayer", "Tarde"],
+        "answer": "Mañana"
+      },
+      {
+        "id": 47,
+        "question": "Translate 'Yesterday' into Spanish.",
+        "options": ["Hoy", "Mañana", "Ayer", "Noche"],
+        "answer": "Ayer"
+      },
+      {
+        "id": 48,
+        "question": "What is 'Time' in Spanish?",
+        "options": ["Tiempo", "Hora", "Día", "Noche"],
+        "answer": "Tiempo"
+      },
+      {
+        "id": 49,
+        "question": "Translate 'Hour' into Spanish.",
+        "options": ["Tiempo", "Hora", "Minuto", "Segundo"],
+        "answer": "Hora"
+      },
+      {
+        "id": 50,
+        "question": "What is 'Minute' in Spanish?",
+        "options": ["Segundo", "Minuto", "Hora", "Tiempo"],
+        "answer": "Minuto"
+      }
+    ]
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "Greetings 1",
+    "topic": "Greetings",
+    "level": "Beginner",
+    "content": "'Hola' means 'Hello'."
+  },
+  {
+    "id": 2,
+    "title": "Greetings 2",
+    "topic": "Greetings",
+    "level": "Beginner",
+    "content": "'Buenos días' means 'Good morning'."
+  },
+  {
+    "id": 3,
+    "title": "Greetings 3",
+    "topic": "Greetings",
+    "level": "Beginner",
+    "content": "'Buenas noches' means 'Good night'."
+  },
+  {
+    "id": 4,
+    "title": "Introductions 1",
+    "topic": "Introductions",
+    "level": "Beginner",
+    "content": "'Me llamo...' means 'My name is...'"
+  },
+  {
+    "id": 5,
+    "title": "Introductions 2",
+    "topic": "Introductions",
+    "level": "Beginner",
+    "content": "'¿Cómo te llamas?' means 'What is your name?'"
+  },
+  {
+    "id": 6,
+    "title": "Numbers 1",
+    "topic": "Numbers",
+    "level": "Beginner",
+    "content": "'Uno, dos, tres' means 'One, two, three'."
+  },
+  {
+    "id": 7,
+    "title": "Numbers 2",
+    "topic": "Numbers",
+    "level": "Beginner",
+    "content": "'Cuatro, cinco, seis' means 'Four, five, six'."
+  },
+  {
+    "id": 8,
+    "title": "Numbers 3",
+    "topic": "Numbers",
+    "level": "Beginner",
+    "content": "'Siete, ocho, nueve, diez' means 'Seven to ten'."
+  },
+  {
+    "id": 9,
+    "title": "Days of the Week 1",
+    "topic": "Calendar",
+    "level": "Beginner",
+    "content": "'Lunes' means 'Monday'."
+  },
+  {
+    "id": 10,
+    "title": "Days of the Week 2",
+    "topic": "Calendar",
+    "level": "Beginner",
+    "content": "'Martes' means 'Tuesday'."
+  },
+  {
+    "id": 11,
+    "title": "Weather 1",
+    "topic": "Weather",
+    "level": "Beginner",
+    "content": "'Hace sol' means 'It's sunny'."
+  },
+  {
+    "id": 12,
+    "title": "Weather 2",
+    "topic": "Weather",
+    "level": "Beginner",
+    "content": "'Está lloviendo' means 'It's raining'."
+  },
+  {
+    "id": 13,
+    "title": "Weather 3",
+    "topic": "Weather",
+    "level": "Beginner",
+    "content": "'Hace frío' means 'It's cold'."
+  },
+  {
+    "id": 14,
+    "title": "Colors 1",
+    "topic": "Colors",
+    "level": "Beginner",
+    "content": "'Rojo' means 'Red'."
+  },
+  {
+    "id": 15,
+    "title": "Colors 2",
+    "topic": "Colors",
+    "level": "Beginner",
+    "content": "'Azul' means 'Blue'."
+  },
+  {
+    "id": 16,
+    "title": "Colors 3",
+    "topic": "Colors",
+    "level": "Beginner",
+    "content": "'Verde' means 'Green'."
+  },
+  {
+    "id": 17,
+    "title": "Food 1",
+    "topic": "Food",
+    "level": "Beginner",
+    "content": "'Manzana' means 'Apple'."
+  },
+  {
+    "id": 18,
+    "title": "Food 2",
+    "topic": "Food",
+    "level": "Beginner",
+    "content": "'Pan' means 'Bread'."
+  },
+  {
+    "id": 19,
+    "title": "Food 3",
+    "topic": "Food",
+    "level": "Beginner",
+    "content": "'Leche' means 'Milk'."
+  },
+  {
+    "id": 20,
+    "title": "Drinks 1",
+    "topic": "Food",
+    "level": "Beginner",
+    "content": "'Agua' means 'Water'."
+  },
+  {
+    "id": 21,
+    "title": "Family 1",
+    "topic": "Family",
+    "level": "Beginner",
+    "content": "'Madre' means 'Mother'."
+  },
+  {
+    "id": 22,
+    "title": "Family 2",
+    "topic": "Family",
+    "level": "Beginner",
+    "content": "'Padre' means 'Father'."
+  },
+  {
+    "id": 23,
+    "title": "Family 3",
+    "topic": "Family",
+    "level": "Beginner",
+    "content": "'Hermano' means 'Brother'."
+  },
+  {
+    "id": 24,
+    "title": "Clothing 1",
+    "topic": "Clothing",
+    "level": "Beginner",
+    "content": "'Camisa' means 'Shirt'."
+  },
+  {
+    "id": 25,
+    "title": "Clothing 2",
+    "topic": "Clothing",
+    "level": "Beginner",
+    "content": "'Pantalones' means 'Pants'."
+  },
+  {
+    "id": 26,
+    "title": "Body Parts 1",
+    "topic": "Body",
+    "level": "Beginner",
+    "content": "'Cabeza' means 'Head'."
+  },
+  {
+    "id": 27,
+    "title": "Body Parts 2",
+    "topic": "Body",
+    "level": "Beginner",
+    "content": "'Mano' means 'Hand'."
+  },
+  {
+    "id": 28,
+    "title": "Transportation 1",
+    "topic": "Travel",
+    "level": "Beginner",
+    "content": "'Coche' means 'Car'."
+  },
+  {
+    "id": 29,
+    "title": "Transportation 2",
+    "topic": "Travel",
+    "level": "Beginner",
+    "content": "'Avión' means 'Airplane'."
+  },
+  {
+    "id": 30,
+    "title": "Transportation 3",
+    "topic": "Travel",
+    "level": "Beginner",
+    "content": "'Tren' means 'Train'."
+  },
+  {
+    "id": 31,
+    "title": "Animals 1",
+    "topic": "Animals",
+    "level": "Beginner",
+    "content": "'Perro' means 'Dog'."
+  },
+  {
+    "id": 32,
+    "title": "Animals 2",
+    "topic": "Animals",
+    "level": "Beginner",
+    "content": "'Gato' means 'Cat'."
+  },
+  {
+    "id": 33,
+    "title": "Animals 3",
+    "topic": "Animals",
+    "level": "Beginner",
+    "content": "'Pájaro' means 'Bird'."
+  },
+  {
+    "id": 34,
+    "title": "Emotions 1",
+    "topic": "Emotions",
+    "level": "Beginner",
+    "content": "'Feliz' means 'Happy'."
+  },
+  {
+    "id": 35,
+    "title": "Emotions 2",
+    "topic": "Emotions",
+    "level": "Beginner",
+    "content": "'Triste' means 'Sad'."
+  },
+  {
+    "id": 36,
+    "title": "Emotions 3",
+    "topic": "Emotions",
+    "level": "Beginner",
+    "content": "'Enojado' means 'Angry'."
+  },
+  {
+    "id": 37,
+    "title": "School 1",
+    "topic": "Education",
+    "level": "Beginner",
+    "content": "'Escuela' means 'School'."
+  },
+  {
+    "id": 38,
+    "title": "School 2",
+    "topic": "Education",
+    "level": "Beginner",
+    "content": "'Libro' means 'Book'."
+  },
+  {
+    "id": 39,
+    "title": "School 3",
+    "topic": "Education",
+    "level": "Beginner",
+    "content": "'Maestro' means 'Teacher'."
+  },
+  {
+    "id": 40,
+    "title": "Occupations 1",
+    "topic": "Jobs",
+    "level": "Beginner",
+    "content": "'Doctor' means 'Doctor'."
+  },
+  {
+    "id": 41,
+    "title": "Occupations 2",
+    "topic": "Jobs",
+    "level": "Beginner",
+    "content": "'Ingeniero' means 'Engineer'."
+  },
+  {
+    "id": 42,
+    "title": "Occupations 3",
+    "topic": "Jobs",
+    "level": "Beginner",
+    "content": "'Chef' means 'Chef'."
+  },
+  {
+    "id": 43,
+    "title": "Verbs 1",
+    "topic": "Verbs",
+    "level": "Beginner",
+    "content": "'Comer' means 'To eat'."
+  },
+  {
+    "id": 44,
+    "title": "Verbs 2",
+    "topic": "Verbs",
+    "level": "Beginner",
+    "content": "'Beber' means 'To drink'."
+  },
+  {
+    "id": 45,
+    "title": "Verbs 3",
+    "topic": "Verbs",
+    "level": "Beginner",
+    "content": "'Dormir' means 'To sleep'."
+  },
+  {
+    "id": 46,
+    "title": "Phrases 1",
+    "topic": "Phrases",
+    "level": "Beginner",
+    "content": "'¿Dónde está el baño?' means 'Where is the bathroom?'."
+  },
+  {
+    "id": 47,
+    "title": "Phrases 2",
+    "topic": "Phrases",
+    "level": "Beginner",
+    "content": "'Gracias' means 'Thank you'."
+  },
+  {
+    "id": 48,
+    "title": "Phrases 3",
+    "topic": "Phrases",
+    "level": "Beginner",
+    "content": "'De nada' means 'You're welcome'."
+  },
+  {
+    "id": 49,
+    "title": "Commands 1",
+    "topic": "Commands",
+    "level": "Beginner",
+    "content": "'Ven aquí' means 'Come here'."
+  },
+  {
+    "id": 50,
+    "title": "Commands 2",
+    "topic": "Commands",
+    "level": "Beginner",
+    "content": "'Siéntate' means 'Sit down'."
+  }
+]

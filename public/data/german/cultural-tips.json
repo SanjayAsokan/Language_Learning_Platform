@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "German Punctuality",
+    "description": "Being on time is considered very important in German culture.",
+    "emoji": "⏰"
+  },
+  {
+    "id": 2,
+    "title": "Oktoberfest",
+    "description": "A famous beer festival held every year in Munich.",
+    "emoji": "🍺"
+  },
+  {
+    "id": 3,
+    "title": "Bread Varieties",
+    "description": "Germany has over 300 types of bread and is proud of its baking culture.",
+    "emoji": "🍞"
+  },
+  {
+    "id": 4,
+    "title": "Recycling System",
+    "description": "Germany has a strong focus on recycling and environmental awareness.",
+    "emoji": "♻️"
+  },
+  {
+    "id": 5,
+    "title": "Christmas Markets",
+    "description": "Traditional holiday markets with crafts, food, and decorations are popular in Germany.",
+    "emoji": "🎄"
+  },
+  {
+    "id": 6,
+    "title": "Castles Everywhere",
+    "description": "Germany is home to thousands of medieval castles, including Neuschwanstein.",
+    "emoji": "🏰"
+  },
+  {
+    "id": 7,
+    "title": "German Engineering",
+    "description": "Germany is famous for its high-quality engineering and automotive industry.",
+    "emoji": "🚗"
+  },
+  {
+    "id": 8,
+    "title": "Beer Purity Law",
+    "description": "The Reinheitsgebot is a 500-year-old law that regulates beer ingredients.",
+    "emoji": "📜"
+  },
+  {
+    "id": 9,
+    "title": "Wurst Variety",
+    "description": "Germany is famous for its many types of sausages, or 'Wurst'.",
+    "emoji": "🌭"
+  },
+  {
+    "id": 10,
+    "title": "The Autobahn",
+    "description": "Germany’s highways are famous for sections with no speed limit.",
+    "emoji": "🛣️"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "La Siesta",
+    "description": "In many parts of Spain, people take a midday break called a siesta to rest or nap.",
+    "emoji": "😴"
+  },
+  {
+    "id": 2,
+    "title": "Tapas Culture",
+    "description": "Spaniards often eat small plates called tapas while socializing with friends.",
+    "emoji": "🍽️"
+  },
+  {
+    "id": 3,
+    "title": "Flamenco Music",
+    "description": "Flamenco is a passionate music and dance style from southern Spain.",
+    "emoji": "💃"
+  },
+  {
+    "id": 4,
+    "title": "Spanish Bullfighting",
+    "description": "Though controversial, bullfighting has been a part of Spanish culture for centuries.",
+    "emoji": "🐂"
+  },
+  {
+    "id": 5,
+    "title": "La Tomatina",
+    "description": "An annual tomato-throwing festival held in Buñol, Spain.",
+    "emoji": "🍅"
+  },
+  {
+    "id": 6,
+    "title": "Late Meals",
+    "description": "Spaniards typically eat dinner much later than in other countries, often after 9 PM.",
+    "emoji": "🌙"
+  },
+  {
+    "id": 7,
+    "title": "Spanish Architecture",
+    "description": "Spain is known for its unique blend of Gothic, Moorish, and Modernist architecture.",
+    "emoji": "🏛️"
+  },
+  {
+    "id": 8,
+    "title": "Spanish Language Diversity",
+    "description": "Spain has several co-official languages including Catalan, Galician, and Basque.",
+    "emoji": "🗣️"
+  },
+  {
+    "id": 9,
+    "title": "Semana Santa",
+    "description": "Holy Week is celebrated with religious processions and festivals across Spain.",
+    "emoji": "✝️"
+  },
+  {
+    "id": 10,
+    "title": "Spanish Soccer Passion",
+    "description": "Soccer is a huge part of life, with clubs like FC Barcelona and Real Madrid.",
+    "emoji": "⚽"
+  }
+]

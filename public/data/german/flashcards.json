@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "word": "Haus",
+    "translation": "House",
+    "example": "Das Haus ist groß.",
+    "language": "German"
+  },
+  {
+    "id": 2,
+    "word": "Buch",
+    "translation": "Book",
+    "example": "Ich lese ein Buch.",
+    "language": "German"
+  },
+  {
+    "id": 3,
+    "word": "Hund",
+    "translation": "Dog",
+    "example": "Der Hund spielt im Garten.",
+    "language": "German"
+  },
+  {
+    "id": 4,
+    "word": "Katze",
+    "translation": "Cat",
+    "example": "Die Katze schläft.",
+    "language": "German"
+  },
+  {
+    "id": 5,
+    "word": "Auto",
+    "translation": "Car",
+    "example": "Das Auto ist schnell.",
+    "language": "German"
+  },
+  {
+    "id": 6,
+    "word": "Freund",
+    "translation": "Friend",
+    "example": "Mein Freund hilft mir.",
+    "language": "German"
+  },
+  {
+    "id": 7,
+    "word": "Stadt",
+    "translation": "City",
+    "example": "Die Stadt ist schön.",
+    "language": "German"
+  },
+  {
+    "id": 8,
+    "word": "Lehrer",
+    "translation": "Teacher",
+    "example": "Der Lehrer erklärt gut.",
+    "language": "German"
+  },
+  {
+    "id": 9,
+    "word": "Schule",
+    "translation": "School",
+    "example": "Ich gehe zur Schule.",
+    "language": "German"
+  },
+  {
+    "id": 10,
+    "word": "Arbeit",
+    "translation": "Work",
+    "example": "Ich habe viel Arbeit.",
+    "language": "German"
+  },
+  {
+    "id": 11,
+    "word": "Tag",
+    "translation": "Day",
+    "example": "Heute ist ein schöner Tag.",
+    "language": "German"
+  },
+  {
+    "id": 12,
+    "word": "Nacht",
+    "translation": "Night",
+    "example": "Die Nacht ist ruhig.",
+    "language": "German"
+  },
+  {
+    "id": 13,
+    "word": "Brot",
+    "translation": "Bread",
+    "example": "Ich esse Brot zum Frühstück.",
+    "language": "German"
+  },
+  {
+    "id": 14,
+    "word": "Milch",
+    "translation": "Milk",
+    "example": "Die Milch ist kalt.",
+    "language": "German"
+  },
+  {
+    "id": 15,
+    "word": "Wasser",
+    "translation": "Water",
+    "example": "Ich trinke Wasser.",
+    "language": "German"
+  },
+  {
+    "id": 16,
+    "word": "Apfel",
+    "translation": "Apple",
+    "example": "Der Apfel ist rot.",
+    "language": "German"
+  },
+  {
+    "id": 17,
+    "word": "Baum",
+    "translation": "Tree",
+    "example": "Der Baum ist alt.",
+    "language": "German"
+  },
+  {
+    "id": 18,
+    "word": "Blume",
+    "translation": "Flower",
+    "example": "Die Blume ist bunt.",
+    "language": "German"
+  },
+  {
+    "id": 19,
+    "word": "Wetter",
+    "translation": "Weather",
+    "example": "Das Wetter ist gut.",
+    "language": "German"
+  },
+  {
+    "id": 20,
+    "word": "Sonne",
+    "translation": "Sun",
+    "example": "Die Sonne scheint.",
+    "language": "German"
+  },
+  {
+    "id": 21,
+    "word": "Mond",
+    "translation": "Moon",
+    "example": "Der Mond ist hell.",
+    "language": "German"
+  },
+  {
+    "id": 22,
+    "word": "Himmel",
+    "translation": "Sky",
+    "example": "Der Himmel ist blau.",
+    "language": "German"
+  },
+  {
+    "id": 23,
+    "word": "Vater",
+    "translation": "Father",
+    "example": "Mein Vater ist freundlich.",
+    "language": "German"
+  },
+  {
+    "id": 24,
+    "word": "Mutter",
+    "translation": "Mother",
+    "example": "Meine Mutter kocht gern.",
+    "language": "German"
+  },
+  {
+    "id": 25,
+    "word": "Kind",
+    "translation": "Child",
+    "example": "Das Kind lacht.",
+    "language": "German"
+  },
+  {
+    "id": 26,
+    "word": "Familie",
+    "translation": "Family",
+    "example": "Meine Familie ist groß.",
+    "language": "German"
+  },
+  {
+    "id": 27,
+    "word": "Essen",
+    "translation": "Food",
+    "example": "Das Essen ist lecker.",
+    "language": "German"
+  },
+  {
+    "id": 28,
+    "word": "Trinken",
+    "translation": "Drink",
+    "example": "Ich möchte etwas trinken.",
+    "language": "German"
+  },
+  {
+    "id": 29,
+    "word": "Fisch",
+    "translation": "Fish",
+    "example": "Ich mag Fisch.",
+    "language": "German"
+  },
+  {
+    "id": 30,
+    "word": "Fleisch",
+    "translation": "Meat",
+    "example": "Fleisch ist teuer.",
+    "language": "German"
+  },
+  {
+    "id": 31,
+    "word": "Tisch",
+    "translation": "Table",
+    "example": "Der Tisch ist rund.",
+    "language": "German"
+  },
+  {
+    "id": 32,
+    "word": "Stuhl",
+    "translation": "Chair",
+    "example": "Ich sitze auf dem Stuhl.",
+    "language": "German"
+  },
+  {
+    "id": 33,
+    "word": "Fenster",
+    "translation": "Window",
+    "example": "Das Fenster ist offen.",
+    "language": "German"
+  },
+  {
+    "id": 34,
+    "word": "Tür",
+    "translation": "Door",
+    "example": "Die Tür ist geschlossen.",
+    "language": "German"
+  },
+  {
+    "id": 35,
+    "word": "Straße",
+    "translation": "Street",
+    "example": "Die Straße ist lang.",
+    "language": "German"
+  },
+  {
+    "id": 36,
+    "word": "Zug",
+    "translation": "Train",
+    "example": "Der Zug kommt pünktlich.",
+    "language": "German"
+  },
+  {
+    "id": 37,
+    "word": "Flugzeug",
+    "translation": "Airplane",
+    "example": "Das Flugzeug fliegt hoch.",
+    "language": "German"
+  },
+  {
+    "id": 38,
+    "word": "Reise",
+    "translation": "Trip",
+    "example": "Die Reise war lang.",
+    "language": "German"
+  },
+  {
+    "id": 39,
+    "word": "Hotel",
+    "translation": "Hotel",
+    "example": "Das Hotel ist teuer.",
+    "language": "German"
+  },
+  {
+    "id": 40,
+    "word": "Zimmer",
+    "translation": "Room",
+    "example": "Das Zimmer ist sauber.",
+    "language": "German"
+  },
+  {
+    "id": 41,
+    "word": "Uhr",
+    "translation": "Clock",
+    "example": "Die Uhr zeigt neun Uhr.",
+    "language": "German"
+  },
+  {
+    "id": 42,
+    "word": "Zeit",
+    "translation": "Time",
+    "example": "Ich habe keine Zeit.",
+    "language": "German"
+  },
+  {
+    "id": 43,
+    "word": "Liebe",
+    "translation": "Love",
+    "example": "Liebe ist wichtig.",
+    "language": "German"
+  },
+  {
+    "id": 44,
+    "word": "Freude",
+    "translation": "Joy",
+    "example": "Freude macht das Leben schön.",
+    "language": "German"
+  },
+  {
+    "id": 45,
+    "word": "Musik",
+    "translation": "Music",
+    "example": "Ich höre gern Musik.",
+    "language": "German"
+  },
+  {
+    "id": 46,
+    "word": "Film",
+    "translation": "Movie",
+    "example": "Der Film ist spannend.",
+    "language": "German"
+  },
+  {
+    "id": 47,
+    "word": "Bild",
+    "translation": "Picture",
+    "example": "Das Bild ist schön.",
+    "language": "German"
+  },
+  {
+    "id": 48,
+    "word": "Sprache",
+    "translation": "Language",
+    "example": "Deutsch ist eine Sprache.",
+    "language": "German"
+  },
+  {
+    "id": 49,
+    "word": "Frage",
+    "translation": "Question",
+    "example": "Ich habe eine Frage.",
+    "language": "German"
+  },
+  {
+    "id": 50,
+    "word": "Antwort",
+    "translation": "Answer",
+    "example": "Die Antwort ist richtig.",
+    "language": "German"
+  }
+]

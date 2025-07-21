@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "Greetings 1",
+    "topic": "Greetings",
+    "level": "Beginner",
+    "content": "'Bonjour' means 'Hello'"
+  },
+  {
+    "id": 2,
+    "title": "Greetings 2",
+    "topic": "Greetings",
+    "level": "Beginner",
+    "content": "'Bonsoir' means 'Good evening'"
+  },
+  {
+    "id": 3,
+    "title": "Greetings 3",
+    "topic": "Greetings",
+    "level": "Beginner",
+    "content": "'Salut' is an informal way to say 'Hi'"
+  },
+  {
+    "id": 4,
+    "title": "Numbers 1",
+    "topic": "Numbers",
+    "level": "Beginner",
+    "content": "'Un, Deux, Trois' mean 'One, Two, Three'"
+  },
+  {
+    "id": 5,
+    "title": "Numbers 2",
+    "topic": "Numbers",
+    "level": "Beginner",
+    "content": "'Quatre, Cinq, Six' mean 'Four, Five, Six'"
+  },
+  {
+    "id": 6,
+    "title": "Introductions 1",
+    "topic": "Introductions",
+    "level": "Beginner",
+    "content": "'Je m'appelle' means 'My name is'"
+  },
+  {
+    "id": 7,
+    "title": "Introductions 2",
+    "topic": "Introductions",
+    "level": "Beginner",
+    "content": "'Comment ça va ?' means 'How are you?'"
+  },
+  {
+    "id": 8,
+    "title": "Common Phrases 1",
+    "topic": "Phrases",
+    "level": "Beginner",
+    "content": "'Merci' means 'Thank you'"
+  },
+  {
+    "id": 9,
+    "title": "Common Phrases 2",
+    "topic": "Phrases",
+    "level": "Beginner",
+    "content": "'S'il vous plaît' means 'Please'"
+  },
+  {
+    "id": 10,
+    "title": "Common Phrases 3",
+    "topic": "Phrases",
+    "level": "Beginner",
+    "content": "'Excusez-moi' means 'Excuse me'"
+  },
+  {
+    "id": 11,
+    "title": "Days of the Week 1",
+    "topic": "Calendar",
+    "level": "Beginner",
+    "content": "'Lundi, Mardi, Mercredi' mean 'Monday, Tuesday, Wednesday'"
+  },
+  {
+    "id": 12,
+    "title": "Days of the Week 2",
+    "topic": "Calendar",
+    "level": "Beginner",
+    "content": "'Jeudi, Vendredi, Samedi, Dimanche' mean 'Thursday, Friday, Saturday, Sunday'"
+  },
+  {
+    "id": 13,
+    "title": "Family 1",
+    "topic": "Family",
+    "level": "Beginner",
+    "content": "'Mère' means 'Mother', 'Père' means 'Father'"
+  },
+  {
+    "id": 14,
+    "title": "Family 2",
+    "topic": "Family",
+    "level": "Beginner",
+    "content": "'Frère' means 'Brother', 'Sœur' means 'Sister'"
+  },
+  {
+    "id": 15,
+    "title": "Colors 1",
+    "topic": "Colors",
+    "level": "Beginner",
+    "content": "'Rouge' means 'Red', 'Bleu' means 'Blue'"
+  },
+  {
+    "id": 16,
+    "title": "Colors 2",
+    "topic": "Colors",
+    "level": "Beginner",
+    "content": "'Vert' means 'Green', 'Jaune' means 'Yellow'"
+  },
+  {
+    "id": 17,
+    "title": "Food 1",
+    "topic": "Food",
+    "level": "Beginner",
+    "content": "'Pomme' means 'Apple', 'Pain' means 'Bread'"
+  },
+  {
+    "id": 18,
+    "title": "Food 2",
+    "topic": "Food",
+    "level": "Beginner",
+    "content": "'Fromage' means 'Cheese', 'Eau' means 'Water'"
+  },
+  {
+    "id": 19,
+    "title": "Verbs 1",
+    "topic": "Verbs",
+    "level": "Beginner",
+    "content": "'Être' means 'To be', 'Avoir' means 'To have'"
+  },
+  {
+    "id": 20,
+    "title": "Verbs 2",
+    "topic": "Verbs",
+    "level": "Beginner",
+    "content": "'Aller' means 'To go', 'Faire' means 'To do/make'"
+  },
+  {
+    "id": 21,
+    "title": "Questions 1",
+    "topic": "Questions",
+    "level": "Beginner",
+    "content": "'Où' means 'Where', 'Quand' means 'When'"
+  },
+  {
+    "id": 22,
+    "title": "Questions 2",
+    "topic": "Questions",
+    "level": "Beginner",
+    "content": "'Pourquoi' means 'Why', 'Comment' means 'How'"
+  },
+  {
+    "id": 23,
+    "title": "Places 1",
+    "topic": "Places",
+    "level": "Beginner",
+    "content": "'Maison' means 'House', 'École' means 'School'"
+  },
+  {
+    "id": 24,
+    "title": "Places 2",
+    "topic": "Places",
+    "level": "Beginner",
+    "content": "'Magasin' means 'Store', 'Parc' means 'Park'"
+  },
+  {
+    "id": 25,
+    "title": "Time 1",
+    "topic": "Time",
+    "level": "Beginner",
+    "content": "'Heure' means 'Hour', 'Minute' means 'Minute'"
+  },
+  {
+    "id": 26,
+    "title": "Weather 1",
+    "topic": "Weather",
+    "level": "Beginner",
+    "content": "'Il pleut' means 'It's raining', 'Il fait chaud' means 'It's hot'"
+  },
+  {
+    "id": 27,
+    "title": "Weather 2",
+    "topic": "Weather",
+    "level": "Beginner",
+    "content": "'Il neige' means 'It's snowing', 'Il fait froid' means 'It's cold'"
+  },
+  {
+    "id": 28,
+    "title": "Emotions 1",
+    "topic": "Emotions",
+    "level": "Beginner",
+    "content": "'Je suis heureux' means 'I am happy'"
+  },
+  {
+    "id": 29,
+    "title": "Emotions 2",
+    "topic": "Emotions",
+    "level": "Beginner",
+    "content": "'Je suis triste' means 'I am sad'"
+  },
+  {
+    "id": 30,
+    "title": "Transport 1",
+    "topic": "Transport",
+    "level": "Beginner",
+    "content": "'Voiture' means 'Car', 'Bus' means 'Bus'"
+  },
+  {
+    "id": 31,
+    "title": "Transport 2",
+    "topic": "Transport",
+    "level": "Beginner",
+    "content": "'Train' means 'Train', 'Avion' means 'Airplane'"
+  },
+  {
+    "id": 32,
+    "title": "Clothing 1",
+    "topic": "Clothing",
+    "level": "Beginner",
+    "content": "'Chemise' means 'Shirt', 'Pantalon' means 'Pants'"
+  },
+  {
+    "id": 33,
+    "title": "Clothing 2",
+    "topic": "Clothing",
+    "level": "Beginner",
+    "content": "'Chaussures' means 'Shoes', 'Chapeau' means 'Hat'"
+  },
+  {
+    "id": 34,
+    "title": "Occupations 1",
+    "topic": "Occupations",
+    "level": "Beginner",
+    "content": "'Médecin' means 'Doctor', 'Professeur' means 'Teacher'"
+  },
+  {
+    "id": 35,
+    "title": "Occupations 2",
+    "topic": "Occupations",
+    "level": "Beginner",
+    "content": "'Ingénieur' means 'Engineer', 'Avocat' means 'Lawyer'"
+  },
+  {
+    "id": 36,
+    "title": "Nature 1",
+    "topic": "Nature",
+    "level": "Beginner",
+    "content": "'Arbre' means 'Tree', 'Fleur' means 'Flower'"
+  },
+  {
+    "id": 37,
+    "title": "Nature 2",
+    "topic": "Nature",
+    "level": "Beginner",
+    "content": "'Montagne' means 'Mountain', 'Rivière' means 'River'"
+  },
+  {
+    "id": 38,
+    "title": "Animals 1",
+    "topic": "Animals",
+    "level": "Beginner",
+    "content": "'Chat' means 'Cat', 'Chien' means 'Dog'"
+  },
+  {
+    "id": 39,
+    "title": "Animals 2",
+    "topic": "Animals",
+    "level": "Beginner",
+    "content": "'Oiseau' means 'Bird', 'Poisson' means 'Fish'"
+  },
+  {
+    "id": 40,
+    "title": "Health 1",
+    "topic": "Health",
+    "level": "Beginner",
+    "content": "'Malade' means 'Sick', 'Bien' means 'Well'"
+  },
+  {
+    "id": 41,
+    "title": "Health 2",
+    "topic": "Health",
+    "level": "Beginner",
+    "content": "'Hôpital' means 'Hospital', 'Médecin' means 'Doctor'"
+  },
+  {
+    "id": 42,
+    "title": "Technology 1",
+    "topic": "Technology",
+    "level": "Beginner",
+    "content": "'Ordinateur' means 'Computer', 'Téléphone' means 'Phone'"
+  },
+  {
+    "id": 43,
+    "title": "Technology 2",
+    "topic": "Technology",
+    "level": "Beginner",
+    "content": "'Internet' means 'Internet', 'Email' means 'Email'"
+  },
+  {
+    "id": 44,
+    "title": "School 1",
+    "topic": "School",
+    "level": "Beginner",
+    "content": "'Livre' means 'Book', 'Crayon' means 'Pencil'"
+  },
+  {
+    "id": 45,
+    "title": "School 2",
+    "topic": "School",
+    "level": "Beginner",
+    "content": "'Tableau' means 'Board', 'Chaise' means 'Chair'"
+  },
+  {
+    "id": 46,
+    "title": "Directions 1",
+    "topic": "Directions",
+    "level": "Beginner",
+    "content": "'Gauche' means 'Left', 'Droite' means 'Right'"
+  },
+  {
+    "id": 47,
+    "title": "Directions 2",
+    "topic": "Directions",
+    "level": "Beginner",
+    "content": "'Tout droit' means 'Straight ahead', 'Retour' means 'Back'"
+  },
+  {
+    "id": 48,
+    "title": "Commands 1",
+    "topic": "Commands",
+    "level": "Beginner",
+    "content": "'Arrête' means 'Stop', 'Viens ici' means 'Come here'"
+  },
+  {
+    "id": 49,
+    "title": "Commands 2",
+    "topic": "Commands",
+    "level": "Beginner",
+    "content": "'Assieds-toi' means 'Sit down', 'Lève-toi' means 'Stand up'"
+  },
+  {
+    "id": 50,
+    "title": "Commands 3",
+    "topic": "Commands",
+    "level": "Beginner",
+    "content": "'Écoute' means 'Listen', 'Répète' means 'Repeat'"
+  }
+]

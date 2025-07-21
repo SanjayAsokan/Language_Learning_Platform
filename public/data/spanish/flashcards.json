@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "word": "Hola",
+    "translation": "Hello",
+    "example": "Hola, ¿cómo estás?",
+    "language": "Spanish"
+  },
+  {
+    "id": 2,
+    "word": "Gracias",
+    "translation": "Thank you",
+    "example": "Gracias por tu ayuda.",
+    "language": "Spanish"
+  },
+  {
+    "id": 3,
+    "word": "Adiós",
+    "translation": "Goodbye",
+    "example": "Adiós, nos vemos mañana.",
+    "language": "Spanish"
+  },
+  {
+    "id": 4,
+    "word": "Por favor",
+    "translation": "Please",
+    "example": "Una taza de café, por favor.",
+    "language": "Spanish"
+  },
+  {
+    "id": 5,
+    "word": "Perdón",
+    "translation": "Sorry",
+    "example": "Perdón por llegar tarde.",
+    "language": "Spanish"
+  },
+  {
+    "id": 6,
+    "word": "Bien",
+    "translation": "Good",
+    "example": "Estoy bien, gracias.",
+    "language": "Spanish"
+  },
+  {
+    "id": 7,
+    "word": "Mal",
+    "translation": "Bad",
+    "example": "Me siento mal hoy.",
+    "language": "Spanish"
+  },
+  {
+    "id": 8,
+    "word": "Sí",
+    "translation": "Yes",
+    "example": "Sí, quiero ir.",
+    "language": "Spanish"
+  },
+  {
+    "id": 9,
+    "word": "No",
+    "translation": "No",
+    "example": "No me gusta eso.",
+    "language": "Spanish"
+  },
+  {
+    "id": 10,
+    "word": "¿Qué?",
+    "translation": "What?",
+    "example": "¿Qué dijiste?",
+    "language": "Spanish"
+  },
+  {
+    "id": 11,
+    "word": "¿Dónde?",
+    "translation": "Where?",
+    "example": "¿Dónde está el baño?",
+    "language": "Spanish"
+  },
+  {
+    "id": 12,
+    "word": "¿Cuándo?",
+    "translation": "When?",
+    "example": "¿Cuándo vamos a salir?",
+    "language": "Spanish"
+  },
+  {
+    "id": 13,
+    "word": "¿Por qué?",
+    "translation": "Why?",
+    "example": "¿Por qué estás triste?",
+    "language": "Spanish"
+  },
+  {
+    "id": 14,
+    "word": "¿Quién?",
+    "translation": "Who?",
+    "example": "¿Quién es ella?",
+    "language": "Spanish"
+  },
+  {
+    "id": 15,
+    "word": "Amigo",
+    "translation": "Friend",
+    "example": "Mi amigo es muy divertido.",
+    "language": "Spanish"
+  },
+  {
+    "id": 16,
+    "word": "Casa",
+    "translation": "House",
+    "example": "Vivo en una casa grande.",
+    "language": "Spanish"
+  },
+  {
+    "id": 17,
+    "word": "Escuela",
+    "translation": "School",
+    "example": "Voy a la escuela todos los días.",
+    "language": "Spanish"
+  },
+  {
+    "id": 18,
+    "word": "Comida",
+    "translation": "Food",
+    "example": "La comida está deliciosa.",
+    "language": "Spanish"
+  },
+  {
+    "id": 19,
+    "word": "Agua",
+    "translation": "Water",
+    "example": "Necesito un vaso de agua.",
+    "language": "Spanish"
+  },
+  {
+    "id": 20,
+    "word": "Coche",
+    "translation": "Car",
+    "example": "Mi coche es rojo.",
+    "language": "Spanish"
+  },
+  {
+    "id": 21,
+    "word": "Libro",
+    "translation": "Book",
+    "example": "Estoy leyendo un libro interesante.",
+    "language": "Spanish"
+  },
+  {
+    "id": 22,
+    "word": "Trabajo",
+    "translation": "Work",
+    "example": "Voy al trabajo en autobús.",
+    "language": "Spanish"
+  },
+  {
+    "id": 23,
+    "word": "Día",
+    "translation": "Day",
+    "example": "Hoy es un buen día.",
+    "language": "Spanish"
+  },
+  {
+    "id": 24,
+    "word": "Noche",
+    "translation": "Night",
+    "example": "La noche está tranquila.",
+    "language": "Spanish"
+  },
+  {
+    "id": 25,
+    "word": "Familia",
+    "translation": "Family",
+    "example": "Mi familia es muy unida.",
+    "language": "Spanish"
+  },
+  {
+    "id": 26,
+    "word": "Tiempo",
+    "translation": "Time/Weather",
+    "example": "El tiempo está soleado.",
+    "language": "Spanish"
+  },
+  {
+    "id": 27,
+    "word": "Mujer",
+    "translation": "Woman",
+    "example": "La mujer es doctora.",
+    "language": "Spanish"
+  },
+  {
+    "id": 28,
+    "word": "Hombre",
+    "translation": "Man",
+    "example": "El hombre es alto.",
+    "language": "Spanish"
+  },
+  {
+    "id": 29,
+    "word": "Niño",
+    "translation": "Boy",
+    "example": "El niño juega en el parque.",
+    "language": "Spanish"
+  },
+  {
+    "id": 30,
+    "word": "Niña",
+    "translation": "Girl",
+    "example": "La niña canta bien.",
+    "language": "Spanish"
+  },
+  {
+    "id": 31,
+    "word": "Pan",
+    "translation": "Bread",
+    "example": "Comí pan con mantequilla.",
+    "language": "Spanish"
+  },
+  {
+    "id": 32,
+    "word": "Leche",
+    "translation": "Milk",
+    "example": "Bebo leche todas las mañanas.",
+    "language": "Spanish"
+  },
+  {
+    "id": 33,
+    "word": "Fruta",
+    "translation": "Fruit",
+    "example": "Me gusta comer fruta.",
+    "language": "Spanish"
+  },
+  {
+    "id": 34,
+    "word": "Amar",
+    "translation": "To love",
+    "example": "Te voy a amar por siempre.",
+    "language": "Spanish"
+  },
+  {
+    "id": 35,
+    "word": "Correr",
+    "translation": "To run",
+    "example": "Voy a correr en el parque.",
+    "language": "Spanish"
+  },
+  {
+    "id": 36,
+    "word": "Leer",
+    "translation": "To read",
+    "example": "Me gusta leer libros.",
+    "language": "Spanish"
+  },
+  {
+    "id": 37,
+    "word": "Escribir",
+    "translation": "To write",
+    "example": "Estoy escribiendo una carta.",
+    "language": "Spanish"
+  },
+  {
+    "id": 38,
+    "word": "Dormir",
+    "translation": "To sleep",
+    "example": "Necesito dormir temprano.",
+    "language": "Spanish"
+  },
+  {
+    "id": 39,
+    "word": "Escuchar",
+    "translation": "To listen",
+    "example": "Voy a escuchar música.",
+    "language": "Spanish"
+  },
+  {
+    "id": 40,
+    "word": "Hablar",
+    "translation": "To speak",
+    "example": "Quiero hablar contigo.",
+    "language": "Spanish"
+  },
+  {
+    "id": 41,
+    "word": "Caminar",
+    "translation": "To walk",
+    "example": "Vamos a caminar juntos.",
+    "language": "Spanish"
+  },
+  {
+    "id": 42,
+    "word": "Ver",
+    "translation": "To see",
+    "example": "Quiero ver esa película.",
+    "language": "Spanish"
+  },
+  {
+    "id": 43,
+    "word": "Comer",
+    "translation": "To eat",
+    "example": "Vamos a comer ahora.",
+    "language": "Spanish"
+  },
+  {
+    "id": 44,
+    "word": "Beber",
+    "translation": "To drink",
+    "example": "Voy a beber jugo.",
+    "language": "Spanish"
+  },
+  {
+    "id": 45,
+    "word": "Aprender",
+    "translation": "To learn",
+    "example": "Quiero aprender español.",
+    "language": "Spanish"
+  },
+  {
+    "id": 46,
+    "word": "Enseñar",
+    "translation": "To teach",
+    "example": "Ella va a enseñar matemáticas.",
+    "language": "Spanish"
+  },
+  {
+    "id": 47,
+    "word": "Viajar",
+    "translation": "To travel",
+    "example": "Me encanta viajar.",
+    "language": "Spanish"
+  },
+  {
+    "id": 48,
+    "word": "Jugar",
+    "translation": "To play",
+    "example": "Vamos a jugar fútbol.",
+    "language": "Spanish"
+  },
+  {
+    "id": 49,
+    "word": "Estudiar",
+    "translation": "To study",
+    "example": "Voy a estudiar ahora.",
+    "language": "Spanish"
+  },
+  {
+    "id": 50,
+    "word": "Trabajar",
+    "translation": "To work",
+    "example": "Tengo que trabajar hoy.",
+    "language": "Spanish"
+  }
+]

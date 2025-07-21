@@ -1,0 +1,77 @@
+[
+  {
+    "level": "Level 1",
+    "questions": [
+      { "id": 1, "question": "What is the German word for 'apple'?", "options": ["Apfel", "Banane", "Orange", "Traube"], "answer": "Apfel" },
+      { "id": 2, "question": "What is the German word for 'book'?", "options": ["Stift", "Buch", "Stuhl", "Fenster"], "answer": "Buch" },
+      { "id": 3, "question": "How do you say 'Hello' in German?", "options": ["Hallo", "Bonjour", "Hola", "Ciao"], "answer": "Hallo" },
+      { "id": 4, "question": "What is 'Danke' in English?", "options": ["Sorry", "Please", "Thank you", "Welcome"], "answer": "Thank you" },
+      { "id": 5, "question": "What is the German word for 'cat'?", "options": ["Hund", "Katze", "Pferd", "Huhn"], "answer": "Katze" },
+      { "id": 6, "question": "Translate 'red' to German.", "options": ["blau", "grün", "rot", "gelb"], "answer": "rot" },
+      { "id": 7, "question": "What is 'Wasser' in English?", "options": ["milk", "juice", "water", "wine"], "answer": "water" },
+      { "id": 8, "question": "How do you say 'yes' in German?", "options": ["nein", "ja", "oui", "si"], "answer": "ja" },
+      { "id": 9, "question": "What is 'Haus' in English?", "options": ["car", "house", "school", "market"], "answer": "house" },
+      { "id": 10, "question": "What is the German word for 'school'?", "options": ["Schule", "Rathaus", "Bank", "Bahnhof"], "answer": "Schule" }
+    ]
+  },
+  {
+    "level": "Level 2",
+    "questions": [
+      { "id": 11, "question": "Translate 'bread' to German.", "options": ["Brot", "Käse", "Butter", "Reis"], "answer": "Brot" },
+      { "id": 12, "question": "What is 'Hund' in English?", "options": ["dog", "cat", "rabbit", "cow"], "answer": "dog" },
+      { "id": 13, "question": "What is the German word for 'milk'?", "options": ["Wasser", "Milch", "Saft", "Bier"], "answer": "Milch" },
+      { "id": 14, "question": "How do you say 'car' in German?", "options": ["Fahrrad", "Motorrad", "Auto", "LKW"], "answer": "Auto" },
+      { "id": 15, "question": "What is 'Käse' in English?", "options": ["butter", "cheese", "egg", "meat"], "answer": "cheese" },
+      { "id": 16, "question": "Translate 'city' to German.", "options": ["Dorf", "Stadt", "Straße", "Viertel"], "answer": "Stadt" },
+      { "id": 17, "question": "What is the German word for 'train station'?", "options": ["Schule", "Bahnhof", "Krankenhaus", "Museum"], "answer": "Bahnhof" },
+      { "id": 18, "question": "How do you say 'window' in German?", "options": ["Tür", "Stuhl", "Fenster", "Wand"], "answer": "Fenster" },
+      { "id": 19, "question": "What is 'Arbeit' in English?", "options": ["holiday", "work", "play", "break"], "answer": "work" },
+      { "id": 20, "question": "What is the German word for 'night'?", "options": ["Tag", "Abend", "Nacht", "Morgen"], "answer": "Nacht" }
+    ]
+  },
+  {
+    "level": "Level 3",
+    "questions": [
+      { "id": 21, "question": "Translate 'friend' to German.", "options": ["Freund", "Feind", "Kollege", "Nachbar"], "answer": "Freund" },
+      { "id": 22, "question": "What is 'Stuhl' in English?", "options": ["table", "bed", "chair", "couch"], "answer": "chair" },
+      { "id": 23, "question": "How do you say 'road' in German?", "options": ["Straße", "Weg", "Route", "Autobahn"], "answer": "Straße" },
+      { "id": 24, "question": "What is 'Geld' in English?", "options": ["gold", "money", "silver", "bank"], "answer": "money" },
+      { "id": 25, "question": "Translate 'butter' to German.", "options": ["Butter", "Brot", "Zucker", "Salz"], "answer": "Butter" },
+      { "id": 26, "question": "What is the German word for 'rain'?", "options": ["Schnee", "Regen", "Sonne", "Wind"], "answer": "Regen" },
+      { "id": 27, "question": "How do you say 'slow' in German?", "options": ["langsam", "schnell", "laut", "leise"], "answer": "langsam" },
+      { "id": 28, "question": "What is 'Familie' in English?", "options": ["friends", "family", "colleagues", "neighbors"], "answer": "family" },
+      { "id": 29, "question": "Translate 'market' to German.", "options": ["Supermarkt", "Laden", "Markt", "Geschäft"], "answer": "Markt" },
+      { "id": 30, "question": "What is the German word for 'music'?", "options": ["Musik", "Film", "Tanz", "Lied"], "answer": "Musik" }
+    ]
+  },
+  {
+    "level": "Level 4",
+    "questions": [
+      { "id": 31, "question": "Translate 'quick' to German.", "options": ["schnell", "langsam", "leise", "laut"], "answer": "schnell" },
+      { "id": 32, "question": "What is 'Fisch' in English?", "options": ["pork", "chicken", "fish", "beef"], "answer": "fish" },
+      { "id": 33, "question": "How do you say 'cold' in German?", "options": ["heiß", "kühl", "kalt", "gefroren"], "answer": "kalt" },
+      { "id": 34, "question": "What is 'Sonne' in English?", "options": ["sun", "moon", "light", "heat"], "answer": "sun" },
+      { "id": 35, "question": "Translate 'bedroom' to German.", "options": ["Badezimmer", "Wohnzimmer", "Schlafzimmer", "Küche"], "answer": "Schlafzimmer" },
+      { "id": 36, "question": "What is the German word for 'happy'?", "options": ["glücklich", "traurig", "wütend", "krank"], "answer": "glücklich" },
+      { "id": 37, "question": "How do you say 'shoe' in German?", "options": ["Hemd", "Hose", "Schuh", "Hut"], "answer": "Schuh" },
+      { "id": 38, "question": "What is 'silbern' in English?", "options": ["rich", "silver", "cash", "broke"], "answer": "silver" },
+      { "id": 39, "question": "Translate 'lunch' to German.", "options": ["Abendessen", "Frühstück", "Mittagessen", "Snack"], "answer": "Mittagessen" },
+      { "id": 40, "question": "What is the German word for 'hospital'?", "options": ["Hotel", "Krankenhaus", "Kirche", "Bank"], "answer": "Krankenhaus" }
+    ]
+  },
+  {
+    "level": "Level 5",
+    "questions": [
+      { "id": 41, "question": "Translate 'cloud' to German.", "options": ["Sturm", "Regen", "Wolke", "Wind"], "answer": "Wolke" },
+      { "id": 42, "question": "What is 'Wald' in English?", "options": ["field", "desert", "forest", "garden"], "answer": "forest" },
+      { "id": 43, "question": "How do you say 'beautiful' in German?", "options": ["hässlich", "hübsch", "schön", "groß"], "answer": "schön" },
+      { "id": 44, "question": "What is 'Berg' in English?", "options": ["mountain", "river", "hill", "valley"], "answer": "mountain" },
+      { "id": 45, "question": "Translate 'garden' to German.", "options": ["Garten", "Park", "Strand", "Terrasse"], "answer": "Garten" },
+      { "id": 46, "question": "What is the German word for 'glasses'?", "options": ["Flaschen", "Gläser", "Brille", "Spiegel"], "answer": "Brille" },
+      { "id": 47, "question": "How do you say 'computer' in German?", "options": ["Computer", "Tastatur", "Bildschirm", "Laptop"], "answer": "Computer" },
+      { "id": 48, "question": "What is 'Arbeiter' in English?", "options": ["worker", "teacher", "student", "boss"], "answer": "worker" },
+      { "id": 49, "question": "Translate 'pen' to German.", "options": ["Stift", "Bleistift", "Papier", "Radiergummi"], "answer": "Stift" },
+      { "id": 50, "question": "What is the German word for 'bathroom'?", "options": ["Badezimmer", "Toilette", "Schlafzimmer", "Küche"], "answer": "Badezimmer" }
+    ]
+  }
+]
