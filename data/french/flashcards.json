@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "word": "Bonjour",
+    "translation": "Hello",
+    "example": "Bonjour, comment ça va ?",
+    "language": "French"
+  },
+  {
+    "id": 2,
+    "word": "Merci",
+    "translation": "Thank you",
+    "example": "Merci pour votre aide.",
+    "language": "French"
+  },
+  {
+    "id": 3,
+    "word": "Pomme",
+    "translation": "Apple",
+    "example": "Je mange une pomme rouge.",
+    "language": "French"
+  },
+  {
+    "id": 4,
+    "word": "Chat",
+    "translation": "Cat",
+    "example": "Le chat dort sur le canapé.",
+    "language": "French"
+  },
+  {
+    "id": 5,
+    "word": "Chien",
+    "translation": "Dog",
+    "example": "Le chien court dans le jardin.",
+    "language": "French"
+  },
+  {
+    "id": 6,
+    "word": "Maison",
+    "translation": "House",
+    "example": "Ma maison est grande et blanche.",
+    "language": "French"
+  },
+  {
+    "id": 7,
+    "word": "École",
+    "translation": "School",
+    "example": "Les enfants vont à l'école.",
+    "language": "French"
+  },
+  {
+    "id": 8,
+    "word": "Livre",
+    "translation": "Book",
+    "example": "Je lis un livre intéressant.",
+    "language": "French"
+  },
+  {
+    "id": 9,
+    "word": "Ami",
+    "translation": "Friend",
+    "example": "Il est mon meilleur ami.",
+    "language": "French"
+  },
+  {
+    "id": 10,
+    "word": "Eau",
+    "translation": "Water",
+    "example": "Je bois un verre d'eau.",
+    "language": "French"
+  },
+  {
+    "id": 11,
+    "word": "Pain",
+    "translation": "Bread",
+    "example": "Le pain est frais.",
+    "language": "French"
+  },
+  {
+    "id": 12,
+    "word": "Fromage",
+    "translation": "Cheese",
+    "example": "J'adore le fromage français.",
+    "language": "French"
+  },
+  {
+    "id": 13,
+    "word": "Voiture",
+    "translation": "Car",
+    "example": "La voiture est rouge.",
+    "language": "French"
+  },
+  {
+    "id": 14,
+    "word": "Ville",
+    "translation": "City",
+    "example": "Paris est une belle ville.",
+    "language": "French"
+  },
+  {
+    "id": 15,
+    "word": "Mer",
+    "translation": "Sea",
+    "example": "Nous allons à la mer en été.",
+    "language": "French"
+  },
+  {
+    "id": 16,
+    "word": "Montagne",
+    "translation": "Mountain",
+    "example": "J'aime marcher en montagne.",
+    "language": "French"
+  },
+  {
+    "id": 17,
+    "word": "Neige",
+    "translation": "Snow",
+    "example": "Il y a beaucoup de neige.",
+    "language": "French"
+  },
+  {
+    "id": 18,
+    "word": "Soleil",
+    "translation": "Sun",
+    "example": "Le soleil brille fort.",
+    "language": "French"
+  },
+  {
+    "id": 19,
+    "word": "Pluie",
+    "translation": "Rain",
+    "example": "La pluie tombe doucement.",
+    "language": "French"
+  },
+  {
+    "id": 20,
+    "word": "Temps",
+    "translation": "Weather",
+    "example": "Le temps est agréable aujourd'hui.",
+    "language": "French"
+  },
+  {
+    "id": 21,
+    "word": "Vélo",
+    "translation": "Bicycle",
+    "example": "Je fais du vélo chaque matin.",
+    "language": "French"
+  },
+  {
+    "id": 22,
+    "word": "Train",
+    "translation": "Train",
+    "example": "Le train arrive à l'heure.",
+    "language": "French"
+  },
+  {
+    "id": 23,
+    "word": "Avion",
+    "translation": "Airplane",
+    "example": "L'avion décolle dans une heure.",
+    "language": "French"
+  },
+  {
+    "id": 24,
+    "word": "Chaise",
+    "translation": "Chair",
+    "example": "Je m'assois sur la chaise.",
+    "language": "French"
+  },
+  {
+    "id": 25,
+    "word": "Table",
+    "translation": "Table",
+    "example": "La table est en bois.",
+    "language": "French"
+  },
+  {
+    "id": 26,
+    "word": "Fenêtre",
+    "translation": "Window",
+    "example": "J'ouvre la fenêtre.",
+    "language": "French"
+  },
+  {
+    "id": 27,
+    "word": "Porte",
+    "translation": "Door",
+    "example": "Ferme la porte, s'il te plaît.",
+    "language": "French"
+  },
+  {
+    "id": 28,
+    "word": "Jour",
+    "translation": "Day",
+    "example": "Quel jour sommes-nous ?",
+    "language": "French"
+  },
+  {
+    "id": 29,
+    "word": "Nuit",
+    "translation": "Night",
+    "example": "Bonne nuit à tous.",
+    "language": "French"
+  },
+  {
+    "id": 30,
+    "word": "Lundi",
+    "translation": "Monday",
+    "example": "Je commence le travail lundi.",
+    "language": "French"
+  },
+  {
+    "id": 31,
+    "word": "Dimanche",
+    "translation": "Sunday",
+    "example": "Dimanche est un jour de repos.",
+    "language": "French"
+  },
+  {
+    "id": 32,
+    "word": "Rouge",
+    "translation": "Red",
+    "example": "La robe est rouge.",
+    "language": "French"
+  },
+  {
+    "id": 33,
+    "word": "Bleu",
+    "translation": "Blue",
+    "example": "Le ciel est bleu.",
+    "language": "French"
+  },
+  {
+    "id": 34,
+    "word": "Vert",
+    "translation": "Green",
+    "example": "L'herbe est verte.",
+    "language": "French"
+  },
+  {
+    "id": 35,
+    "word": "Noir",
+    "translation": "Black",
+    "example": "Mon sac est noir.",
+    "language": "French"
+  },
+  {
+    "id": 36,
+    "word": "Blanc",
+    "translation": "White",
+    "example": "Le chat est blanc.",
+    "language": "French"
+  },
+  {
+    "id": 37,
+    "word": "Heure",
+    "translation": "Hour/Time",
+    "example": "Quelle heure est-il ?",
+    "language": "French"
+  },
+  {
+    "id": 38,
+    "word": "Minute",
+    "translation": "Minute",
+    "example": "Une minute, s'il vous plaît.",
+    "language": "French"
+  },
+  {
+    "id": 39,
+    "word": "Main",
+    "translation": "Hand",
+    "example": "Je lève la main.",
+    "language": "French"
+  },
+  {
+    "id": 40,
+    "word": "Pied",
+    "translation": "Foot",
+    "example": "Il a mal au pied.",
+    "language": "French"
+  },
+  {
+    "id": 41,
+    "word": "Tête",
+    "translation": "Head",
+    "example": "Ma tête me fait mal.",
+    "language": "French"
+  },
+  {
+    "id": 42,
+    "word": "Yeux",
+    "translation": "Eyes",
+    "example": "Elle a les yeux bleus.",
+    "language": "French"
+  },
+  {
+    "id": 43,
+    "word": "Nez",
+    "translation": "Nose",
+    "example": "Il a un petit nez.",
+    "language": "French"
+  },
+  {
+    "id": 44,
+    "word": "Bouche",
+    "translation": "Mouth",
+    "example": "Ouvre la bouche.",
+    "language": "French"
+  },
+  {
+    "id": 45,
+    "word": "Oreille",
+    "translation": "Ear",
+    "example": "Je t'écoute avec mes oreilles.",
+    "language": "French"
+  },
+  {
+    "id": 46,
+    "word": "Famille",
+    "translation": "Family",
+    "example": "Ma famille est très grande.",
+    "language": "French"
+  },
+  {
+    "id": 47,
+    "word": "Fille",
+    "translation": "Girl / Daughter",
+    "example": "Ma fille a huit ans.",
+    "language": "French"
+  },
+  {
+    "id": 48,
+    "word": "Garçon",
+    "translation": "Boy",
+    "example": "Le garçon joue au ballon.",
+    "language": "French"
+  },
+  {
+    "id": 49,
+    "word": "Amour",
+    "translation": "Love",
+    "example": "L'amour est important.",
+    "language": "French"
+  },
+  {
+    "id": 50,
+    "word": "Vie",
+    "translation": "Life",
+    "example": "La vie est belle.",
+    "language": "French"
+  }
+]

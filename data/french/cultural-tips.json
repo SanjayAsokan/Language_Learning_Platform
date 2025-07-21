@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "French Cuisine",
+    "description": "France is known for its food culture including croissants, cheese, and wine.",
+    "emoji": "🥐"
+  },
+  {
+    "id": 2,
+    "title": "Baguette Tradition",
+    "description": "Baguettes are a staple in French meals and are often bought fresh daily.",
+    "emoji": "🥖"
+  },
+  {
+    "id": 3,
+    "title": "Café Culture",
+    "description": "French people enjoy sitting at cafés for long conversations and people-watching.",
+    "emoji": "☕"
+  },
+  {
+    "id": 4,
+    "title": "Fashion Capital",
+    "description": "Paris is considered one of the fashion capitals of the world.",
+    "emoji": "👗"
+  },
+  {
+    "id": 5,
+    "title": "Politeness Matters",
+    "description": "Saying 'Bonjour' and 'Merci' is very important in daily French interactions.",
+    "emoji": "🙏"
+  },
+  {
+    "id": 6,
+    "title": "Art and Museums",
+    "description": "France is home to famous museums like the Louvre and Musée d'Orsay.",
+    "emoji": "🖼️"
+  },
+  {
+    "id": 7,
+    "title": "Wine Culture",
+    "description": "Wine is a central part of French meals and traditions.",
+    "emoji": "🍷"
+  },
+  {
+    "id": 8,
+    "title": "The French Riviera",
+    "description": "The south of France is famous for its beaches and luxury lifestyle.",
+    "emoji": "🏖️"
+  },
+  {
+    "id": 9,
+    "title": "French Literature",
+    "description": "France has a rich literary history including authors like Victor Hugo and Voltaire.",
+    "emoji": "📚"
+  },
+  {
+    "id": 10,
+    "title": "The Eiffel Tower",
+    "description": "One of the most iconic landmarks in the world, located in Paris.",
+    "emoji": "🗼"
+  }
+]

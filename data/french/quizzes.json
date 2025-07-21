@@ -1,0 +1,77 @@
+[
+  {
+    "level": "Level 1",
+    "questions": [
+      { "id": 1, "question": "What is the French word for 'apple'?", "options": ["pomme", "banane", "orange", "raisin"], "answer": "pomme" },
+      { "id": 2, "question": "What is the French word for 'book'?", "options": ["stylo", "livre", "chaise", "fenêtre"], "answer": "livre" },
+      { "id": 3, "question": "How do you say 'Hello' in French?", "options": ["Bonjour", "Hola", "Hallo", "Ciao"], "answer": "Bonjour" },
+      { "id": 4, "question": "What is 'merci' in English?", "options": ["Sorry", "Please", "Thank you", "Welcome"], "answer": "Thank you" },
+      { "id": 5, "question": "What is the French word for 'cat'?", "options": ["chien", "chat", "cheval", "poule"], "answer": "chat" },
+      { "id": 6, "question": "Translate 'red' to French.", "options": ["bleu", "vert", "rouge", "jaune"], "answer": "rouge" },
+      { "id": 7, "question": "What is 'eau' in English?", "options": ["milk", "juice", "water", "wine"], "answer": "water" },
+      { "id": 8, "question": "How do you say 'yes' in French?", "options": ["non", "oui", "si", "ja"], "answer": "oui" },
+      { "id": 9, "question": "What is 'maison' in English?", "options": ["car", "house", "school", "market"], "answer": "house" },
+      { "id": 10, "question": "What is the French word for 'school'?", "options": ["école", "mairie", "banque", "gare"], "answer": "école" }
+    ]
+  },
+  {
+    "level": "Level 2",
+    "questions": [
+      { "id": 11, "question": "Translate 'bread' to French.", "options": ["pain", "fromage", "beurre", "riz"], "answer": "pain" },
+      { "id": 12, "question": "What is 'chien' in English?", "options": ["dog", "cat", "rabbit", "cow"], "answer": "dog" },
+      { "id": 13, "question": "What is the French word for 'milk'?", "options": ["eau", "lait", "jus", "bière"], "answer": "lait" },
+      { "id": 14, "question": "How do you say 'car' in French?", "options": ["vélo", "moto", "voiture", "camion"], "answer": "voiture" },
+      { "id": 15, "question": "What is 'fromage' in English?", "options": ["butter", "cheese", "egg", "meat"], "answer": "cheese" },
+      { "id": 16, "question": "Translate 'city' to French.", "options": ["village", "ville", "rue", "quartier"], "answer": "ville" },
+      { "id": 17, "question": "What is the French word for 'train station'?", "options": ["école", "gare", "hôpital", "musée"], "answer": "gare" },
+      { "id": 18, "question": "How do you say 'window' in French?", "options": ["porte", "chaise", "fenêtre", "mur"], "answer": "fenêtre" },
+      { "id": 19, "question": "What is 'travail' in English?", "options": ["holiday", "work", "play", "break"], "answer": "work" },
+      { "id": 20, "question": "What is the French word for 'night'?", "options": ["jour", "soir", "nuit", "matin"], "answer": "nuit" }
+    ]
+  },
+  {
+    "level": "Level 3",
+    "questions": [
+      { "id": 21, "question": "Translate 'friend' to French.", "options": ["ami", "ennemi", "collègue", "voisin"], "answer": "ami" },
+      { "id": 22, "question": "What is 'chaise' in English?", "options": ["table", "bed", "chair", "couch"], "answer": "chair" },
+      { "id": 23, "question": "How do you say 'road' in French?", "options": ["rue", "route", "voie", "autoroute"], "answer": "route" },
+      { "id": 24, "question": "What is 'argent' in English?", "options": ["gold", "money", "silver", "bank"], "answer": "money" },
+      { "id": 25, "question": "Translate 'butter' to French.", "options": ["beurre", "pain", "sucre", "sel"], "answer": "beurre" },
+      { "id": 26, "question": "What is the French word for 'rain'?", "options": ["neige", "pluie", "soleil", "vent"], "answer": "pluie" },
+      { "id": 27, "question": "How do you say 'slow' in French?", "options": ["lent", "rapide", "fort", "faible"], "answer": "lent" },
+      { "id": 28, "question": "What is 'famille' in English?", "options": ["friends", "family", "colleagues", "neighbors"], "answer": "family" },
+      { "id": 29, "question": "Translate 'market' to French.", "options": ["supermarché", "magasin", "marché", "épicerie"], "answer": "marché" },
+      { "id": 30, "question": "What is the French word for 'music'?", "options": ["musique", "film", "danse", "chanson"], "answer": "musique" }
+    ]
+  },
+  {
+    "level": "Level 4",
+    "questions": [
+      { "id": 31, "question": "Translate 'quick' to French.", "options": ["vite", "lentement", "calme", "bruit"], "answer": "vite" },
+      { "id": 32, "question": "What is 'poisson' in English?", "options": ["pork", "chicken", "fish", "beef"], "answer": "fish" },
+      { "id": 33, "question": "How do you say 'cold' in French?", "options": ["chaud", "tiède", "froid", "gelé"], "answer": "froid" },
+      { "id": 34, "question": "What is 'soleil' in English?", "options": ["sun", "moon", "light", "heat"], "answer": "sun" },
+      { "id": 35, "question": "Translate 'bedroom' to French.", "options": ["salle de bain", "salon", "chambre", "cuisine"], "answer": "chambre" },
+      { "id": 36, "question": "What is the French word for 'happy'?", "options": ["heureux", "triste", "fâché", "malade"], "answer": "heureux" },
+      { "id": 37, "question": "How do you say 'shoe' in French?", "options": ["chemise", "pantalon", "chaussure", "chapeau"], "answer": "chaussure" },
+      { "id": 38, "question": "What is 'argenté' in English?", "options": ["rich", "silver", "cash", "broke"], "answer": "silver" },
+      { "id": 39, "question": "Translate 'lunch' to French.", "options": ["dîner", "petit-déjeuner", "déjeuner", "collation"], "answer": "déjeuner" },
+      { "id": 40, "question": "What is the French word for 'hospital'?", "options": ["hôtel", "hôpital", "église", "banque"], "answer": "hôpital" }
+    ]
+  },
+  {
+    "level": "Level 5",
+    "questions": [
+      { "id": 41, "question": "Translate 'cloud' to French.", "options": ["orage", "pluie", "nuage", "vent"], "answer": "nuage" },
+      { "id": 42, "question": "What is 'forêt' in English?", "options": ["field", "desert", "forest", "garden"], "answer": "forest" },
+      { "id": 43, "question": "How do you say 'beautiful' in French?", "options": ["laid", "joli", "beau", "grand"], "answer": "beau" },
+      { "id": 44, "question": "What is 'montagne' in English?", "options": ["mountain", "river", "hill", "valley"], "answer": "mountain" },
+      { "id": 45, "question": "Translate 'garden' to French.", "options": ["jardin", "parc", "plage", "terrasse"], "answer": "jardin" },
+      { "id": 46, "question": "What is the French word for 'glasses'?", "options": ["bouteilles", "verres", "lunettes", "miroirs"], "answer": "lunettes" },
+      { "id": 47, "question": "How do you say 'computer' in French?", "options": ["ordinateur", "clavier", "écran", "portable"], "answer": "ordinateur" },
+      { "id": 48, "question": "What is 'travailleur' in English?", "options": ["worker", "teacher", "student", "boss"], "answer": "worker" },
+      { "id": 49, "question": "Translate 'pen' to French.", "options": ["stylo", "crayon", "papier", "gomme"], "answer": "stylo" },
+      { "id": 50, "question": "What is the French word for 'bathroom'?", "options": ["salle de bain", "toilettes", "chambre", "cuisine"], "answer": "salle de bain" }
+    ]
+  }
+]
