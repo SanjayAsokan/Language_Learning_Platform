@@ -75,7 +75,7 @@ Routes are dynamically generated based on language and level.
 ## ⚙️ Getting Started
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/your-username/language-learning-platform.git
+git clone https://github.com/SanjayAsokan/Language_Learning_Platform
 cd language-learning-platform
 npm install
 
@@ -91,4 +91,3 @@ Styling: Tailwind CSS
 Auth: Firebase Authentication
 Data: Local JSON files in /public
 Icons & UI: Lucide
-Deployment: Vercel
