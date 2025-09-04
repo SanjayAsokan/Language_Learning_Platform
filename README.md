@@ -11,7 +11,7 @@ Fullstack (Frontend + Firebase)
 ---
 
 ## 🚀 Deployed Links
-- Frontend: https://sanjayasokan.github.io/Language_Learning_Platform/  
+- Frontend: https://gregarious-bavarois-88043f.netlify.app/
 - Backend: ❌ N/A (uses Firebase only)  
 - Database: Firebase Firestore & Authentication
 
