@@ -11,9 +11,8 @@ const QuizLevels = () => {
         {langId.charAt(0).toUpperCase() + langId.slice(1)} – Choose a Quiz Level
       </h1>
 
-      <button
-        onClick={() => navigate(`/language/${langId}`)}
-        className="mb-10 px-6 py-2 mr-300 bg-gradient-to-r from-orange-400 to-red-400 text-white rounded-xl shadow-md hover:from-orange-500 hover:to-red-500 transition"
+      <button onClick={() => navigate(`/language/${langId}`)}
+      className="mb-10 px-6 py-2 mr-300 bg-gradient-to-r from-orange-400 to-red-400 text-white rounded-xl shadow-md hover:from-orange-500 hover:to-red-500 transition"
       >
         ⬅ Back to Dashboard
       </button>

@@ -26,12 +26,8 @@ const LessonsList = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-r from-blue-100 via-indigo-100 to-purple-100 flex flex-col items-center p-8">
-      <button
-  onClick={() => navigate(`/language/${langId}`)}
-  className="mt-15 mb-8 px-6 py-2 mr-350 bg-gradient-to-r from-teal-500 to-cyan-500 text-white rounded-xl shadow-md hover:from-teal-600 hover:to-cyan-600 transition"
->
-  ⬅ Back to Dashboard
-</button>
+      <button onClick={() => navigate(`/language/${langId}`)}
+      className="mt-15 mb-8 px-6 py-2 mr-300 bg-gradient-to-r from-teal-500 to-cyan-500 text-white rounded-xl shadow-md hover:from-teal-600 hover:to-cyan-600 transition"> ⬅ Back to Dashboard </button>
 
 
       {lessons.length > 0 ? (

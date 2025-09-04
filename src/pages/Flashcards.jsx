@@ -44,12 +44,8 @@ const FlashcardViewer = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-purple-200 to-blue-100 p-4">
       
-      <button
-        onClick={goToDashboard}
-        className="mr-350 mb-6 px-6 py-2 bg-gradient-to-r from-violet-500 to-purple-600 text-white rounded-xl shadow-md hover:from-violet-600 hover:to-purple-700 transition"
-      >
-        ⬅ Back to Dashboard
-      </button>
+      <button onClick={goToDashboard}
+      className="mr-300 mb-6 px-6 py-2 bg-gradient-to-r from-violet-500 to-purple-600 text-white rounded-xl shadow-md hover:from-violet-600 hover:to-purple-700 transition" > ⬅ Back to Dashboard </button>
 
       <h1 className="text-3xl font-bold mb-6 capitalize text-gray-800">{langId} Flashcards</h1>
 

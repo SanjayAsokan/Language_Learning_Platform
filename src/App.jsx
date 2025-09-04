@@ -1,4 +1,3 @@
-// src/App.jsx
 import { Routes, Route, Navigate } from "react-router-dom";
 import { useAuthState } from "react-firebase-hooks/auth";
 import { auth } from "./firebase";
@@ -22,50 +21,26 @@ const App = () => {
   if (loading) return <div className="text-white text-center mt-10">Loading...</div>;
 
   return (
-    <>
-      {user && <Navbar />}
-      <Routes>
-        {/* Public Routes */}
-        <Route path="/" element={<Home />} />
-        <Route path="/login" element={!user ? <Login /> : <Navigate to="/" />} />
-        <Route path="/signup" element={!user ? <Signup /> : <Navigate to="/" />} />
-
-        {/* New: Language Selector Route */}
-        <Route
-          path="/language-selector"
-          element={user ? <LanguageSelector /> : <Navigate to="/login" />}
-        />
-
-        {/* Protected Routes (require login + language selection) */}
-        <Route
-          path="/language/:langId"
-          element={user ? <LanguageDashboard /> : <Navigate to="/login" />}
-        />
-        <Route
-          path="/:langId/lessons"
-          element={user ? <LessonsList /> : <Navigate to="/login" />}
-        />
-        <Route
-          path="/:langId/quizzes"
-          element={user ? <QuizLevels /> : <Navigate to="/login" />}
-        />
-        <Route
-          path="/:langId/quizzes/level/:levelId"
-          element={user ? <QuizPage /> : <Navigate to="/login" />}
-        />
-        <Route
-          path="/:langId/flashcards"
-          element={user ? <Flashcards /> : <Navigate to="/login" />}
-        />
-        <Route
-          path="/:langId/cultural-tips"
-          element={user ? <CulturalTips /> : <Navigate to="/login" />}
-        />
-        <Route
-          path="/:langId/pronunciation"
-          element={user ? <PronunciationList /> : <Navigate to="/login" />}
-        />
-      </Routes>
+  <>
+  {user && <Navbar />}
+  <Routes>
+    {/* Public Routes */}
+    <Route path="/" element={<Home />} />
+    <Route path="/login" element={!user ? <Login /> : <Navigate to="/" />} />
+    <Route path="/signup" element={!user ? <Signup /> : <Navigate to="/" />} />
+    
+    {/* New: Language Selector Route */}
+    <Route path="/language-selector" element={user ? <LanguageSelector /> : <Navigate to="/login" />}/>
+    
+    {/* Protected Routes (require login + language selection) */}
+    <Route path="/language/:langId" element={user ? <LanguageDashboard /> : <Navigate to="/login" />}/>
+    <Route path="/:langId/lessons"  element={user ? <LessonsList /> : <Navigate to="/login" />}/>
+    <Route path="/:langId/quizzes"  element={user ? <QuizLevels /> : <Navigate to="/login" />}/>
+    <Route path="/:langId/quizzes/level/:levelId" element={user ? <QuizPage /> : <Navigate to="/login" />}/>
+    <Route path="/:langId/flashcards" element={user ? <Flashcards /> : <Navigate to="/login" />}/>
+    <Route path="/:langId/cultural-tips" element={user ? <CulturalTips /> : <Navigate to="/login" />}/>
+    <Route path="/:langId/pronunciation" element={user ? <PronunciationList /> : <Navigate to="/login" />}/>
+    </Routes>
     </>
   );
 };
