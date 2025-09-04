@@ -17,6 +17,30 @@ Fullstack (Frontend + Firebase)
 
 ---
 
+## ✨ Features
+
+✅ Firebase Auth (Login/Signup)  
+🌍 Language Selector (Spanish, French, German)  
+📚 Lessons from JSON (by topic and level)  
+📝 Level-wise Quizzes (10 per level)  
+🧠 Flashcards per language  
+🔊 Pronunciation with phonetics  
+🌎 Cultural Tips  
+🧑‍💻 Protected Routes using Auth  
+🎨 Fully responsive with Tailwind + animated background
+
+---
+
+## 💡 Design Decisions & Assumptions
+
+All learning data is stored in `/public/data/` for easy access via fetch.  
+Firebase used for authentication only.  
+No backend server – purely frontend + cloud-based Firebase setup.  
+Mobile-first UI with responsive components.  
+Routes are dynamically generated based on language and level.
+
+---
+
 ## 📁 Folder Structure
 
 language-learning-platform/
@@ -51,26 +75,7 @@ language-learning-platform/
 ├── tailwind.config.js
 ├── package.json
 
-
-## ✨ Features
-
-✅ Firebase Auth (Login/Signup)  
-🌍 Language Selector (Spanish, French, German)  
-📚 Lessons from JSON (by topic and level)  
-📝 Level-wise Quizzes (10 per level)  
-🧠 Flashcards per language  
-🔊 Pronunciation with phonetics  
-🌎 Cultural Tips  
-🧑‍💻 Protected Routes using Auth  
-🎨 Fully responsive with Tailwind + animated background
-
-## 💡 Design Decisions & Assumptions
-
-All learning data is stored in `/public/data/` for easy access via fetch.  
-Firebase used for authentication only.  
-No backend server – purely frontend + cloud-based Firebase setup.  
-Mobile-first UI with responsive components.  
-Routes are dynamically generated based on language and level.
+---
 
 ## ⚙️ Getting Started
 ### 1. Clone & Install
