@@ -2,16 +2,17 @@
 
 An interactive platform to learn Spanish, French, and German with lessons, quizzes, flashcards, pronunciation help, and cultural tips — all powered by React + Firebase.
 
+---
 📌 Introduction
 
 The Language Learning Platform is a full-stack learning app that helps users practice languages in an engaging way.
 It includes interactive lessons, level-based quizzes, flashcards, cultural insights, and pronunciation guides.
 User authentication and data storage are powered by Firebase Authentication & Firestore, while content (lessons, quizzes, etc.) is stored in /public/data/ JSON files for easy access.
-
+---
 🔧 Project Type
 
 Frontend + Firebase (Fullstack without backend server)
-
+---
 🚀 Live Demo
 
 Frontend: https://gregarious-bavarois-88043f.netlify.app/
@@ -19,7 +20,7 @@ Frontend: https://gregarious-bavarois-88043f.netlify.app/
 Backend: ❌ N/A (Firebase only)
 
 Database: Firebase Firestore + Authentication
-
+---
 ✨ Features
 
 🔐 Firebase Authentication (Login/Signup)
