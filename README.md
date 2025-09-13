@@ -121,11 +121,17 @@ Password: 123456
 📦 Tech Stack
 
 Frontend: React, React Router
+
 Styling: Tailwind CSS
+
 Authentication: Firebase Auth
+
 Database: Firebase Firestore
+
 Data Storage: JSON files in /public/data
+
 Icons/UI: Lucide
+
 ---
 
 🤝 Contributing
